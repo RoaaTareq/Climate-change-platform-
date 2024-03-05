@@ -1,0 +1,19 @@
+.main-navbar{
+    background-color: #002147;
+    color:white;
+    padding: 6px  4px ;
+    font-weight: 900;
+    font-family: 'Nunito';
+
+}
+.list-menu{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+   gap: 30px;
+   margin: auto;
+}
+.logo{
+    margin: 12px 0;
+    width: 80px;
+}

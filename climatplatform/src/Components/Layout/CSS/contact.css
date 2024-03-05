@@ -1,0 +1,20 @@
+.contact-section{
+    padding: 12px  4px ;
+    background: #20b189;
+    color:#002147;
+    font-family: 'Nunito';
+}
+.contact{
+    list-style-type: none;
+    display: inline;
+}
+.icon{
+margin:  0 12px;
+font-size: 20px;
+}
+.icon-list{
+    margin: 0 12px;
+}
+.contact-text{
+    font-weight: 900;
+}
